@@ -1,3 +1,8 @@
 .gittu{
-   color: blueviolet;                           
+   color: blueviolet; 
+   font-size: smaller;                          
+}
+.gittu2{
+   color: tomato;
+   font-size: medium;                           
 }
